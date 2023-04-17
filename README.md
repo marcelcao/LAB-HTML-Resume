@@ -1,3 +1,5 @@
+Deployed Site here: https://html-resume-mara.netlify.app/
+
 # LAB: HTML Resume
 
 ## Get Started
